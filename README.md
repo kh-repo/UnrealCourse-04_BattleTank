@@ -10,3 +10,4 @@ Kevin Hau
 * BT03 S04 Game Design Document (GDD)
 * BT04 Setting Up a GitHub "Repo"
 * BT05 Creating & Deleting Landscapes
+* BT06 Landscape Setup & Scaling
