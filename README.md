@@ -4,5 +4,6 @@ Part of the Unreal Engine C++ Developer: Learn C++ and Make Video Games course o
 
 Kevin Hau
 
-##Lecture List
+## Lecture List
 * BT01 Intro, Notes & Section 4 Assets
+* BT02 Battle Tank Overview
