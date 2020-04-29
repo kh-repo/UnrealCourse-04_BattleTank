@@ -11,3 +11,4 @@ Kevin Hau
 * BT04 Setting Up a GitHub "Repo"
 * BT05 Creating & Deleting Landscapes
 * BT06 Landscape Setup & Scaling
+* BT07 A Landscaping Process
