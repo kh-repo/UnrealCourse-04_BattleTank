@@ -7,4 +7,5 @@ Kevin Hau
 ## Lecture List
 * BT01 Intro, Notes & Section 4 Assets
 * BT02 Battle Tank Overview
-* S04 Game Design Document (GDD)
+* BT03 S04 Game Design Document (GDD)
+* BT04 Setting Up a GitHub "Repo"
