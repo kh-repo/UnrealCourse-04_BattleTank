@@ -9,3 +9,4 @@ Kevin Hau
 * BT02 Battle Tank Overview
 * BT03 S04 Game Design Document (GDD)
 * BT04 Setting Up a GitHub "Repo"
+* BT05 Creating & Deleting Landscapes
