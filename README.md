@@ -19,3 +19,4 @@ Kevin Hau
 * BT12 Tank Control System
 * BT13 Actors from Multiple Meshes
 * BT14 Configuring a Tank
+* BT15 3rd Person Camera Control
