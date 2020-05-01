@@ -26,3 +26,4 @@ Kevin Hau
 * BT19 UI Scale Box, Buttons & Mouse
 * BT20 Controller Ready Navigation
 * BT21 Trial Packaging Your Game
+* BT22 Delegating to Components
