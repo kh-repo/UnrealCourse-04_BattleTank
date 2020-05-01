@@ -30,3 +30,4 @@ Kevin Hau
 * BT23 Using virtual and override
 * BT24 Creating an AI Controller Class
 * BT25 Get the Player Controller with C++
+* BT26 Add Tick() to PlayerController

@@ -28,5 +28,5 @@ ATank* ATankAIController::GetPlayerTank() const
 {
     auto PlayerPawn = GetWorld()->GetFirstPlayerController()->GetPawn();
     
-    return Cast<ATank>(PlayerPawn);    
+    return Cast<ATank>(PlayerPawn);
 }
