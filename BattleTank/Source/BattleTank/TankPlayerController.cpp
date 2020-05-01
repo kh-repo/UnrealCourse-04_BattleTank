@@ -7,17 +7,15 @@ void ATankPlayerController::BeginPlay()
 {
     Super::BeginPlay();
 
-    ATank* TankPlayerController = GetControlledTank();
-    if (!TankPlayerController)
+    ATank* PlayerControlledTank = GetControlledTank();
+    if (!PlayerControlledTank)
     {
         UE_LOG(LogTemp, Error, TEXT("No player controller found!"));
     }
     else
     {
-        UE_LOG(LogTemp, Warning, TEXT("Found player controller on %s"), *TankPlayerController->GetName());
+        UE_LOG(LogTemp, Warning, TEXT("Found player controller on %s"), *PlayerControlledTank->GetName());
     }
-    
-    
 }
 
 ATank* ATankPlayerController::GetControlledTank() const

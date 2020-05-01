@@ -28,3 +28,4 @@ Kevin Hau
 * BT21 Trial Packaging Your Game
 * BT22 Delegating to Components
 * BT23 Using virtual and override
+* BT24 Creating an AI Controller Class
