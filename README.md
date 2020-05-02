@@ -40,3 +40,4 @@ Kevin Hau
 * BT33 BlueprintCallable()
 * BT34 SuggestProjectileVelocity()
 * BT35 Predict Projectile Landing Point
+* BT36 Using FRotators in Unreal
