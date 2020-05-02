@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "GameFramework/Actor.h"
 #include "GameFramework/Pawn.h"
 #include "TankAimingComponent.h"
 #include "Tank.generated.h"

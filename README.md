@@ -39,3 +39,4 @@ Kevin Hau
 * BT32 Creating Default Sub Objects in C++
 * BT33 BlueprintCallable()
 * BT34 SuggestProjectileVelocity()
+* BT35 Predict Projectile Landing Point
