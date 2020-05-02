@@ -41,3 +41,5 @@ Kevin Hau
 * BT34 SuggestProjectileVelocity()
 * BT35 Predict Projectile Landing Point
 * BT36 Using FRotators in Unreal
+* BT37 Using Forward Declarations
+* BT38 BlueprintSpawnableComponent()
