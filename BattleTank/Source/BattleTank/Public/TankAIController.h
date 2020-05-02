@@ -23,5 +23,4 @@ private:
 	ATank* GetPlayerTank() const;
 
 public:
-
 };

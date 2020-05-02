@@ -38,3 +38,4 @@ Kevin Hau
 * BT31 Unify Player & AI Aiming
 * BT32 Creating Default Sub Objects in C++
 * BT33 BlueprintCallable()
+* BT34 SuggestProjectileVelocity()
