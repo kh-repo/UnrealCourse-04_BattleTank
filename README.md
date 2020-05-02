@@ -36,3 +36,4 @@ Kevin Hau
 * BT29 Using DeprojectScreenToWorld
 * BT30 Using LineTraceSingleByChannel()
 * BT31 Unify Player & AI Aiming
+* BT32 Creating Default Sub Objects in C++
