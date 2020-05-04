@@ -43,4 +43,6 @@ Kevin Hau
 * BT36 Using FRotators in Unreal
 * BT37 Using Forward Declarations
 * BT38 BlueprintSpawnableComponent()
-* BT38 Review Our Execution Flow
+* BT39 Review Our Execution Flow
+* BT40 How To Report Bugs
+* BT41 Using Clamp() to Limit Values
